@@ -1,0 +1,5 @@
+4 kỹ năng thiết yếu cho html5 canvas:
+- Biết cách tạo và thay đổi kích thước thẻ canvas
+- Biết cách vẽ các phần tử trên màn hình, có rất nhiều phần tử có thể vẽ nhưng cần phải biết loại phần tử nào có thể vẽ đầu tiên
+- Biết cách tạo các hoạt ảnh cho các phần tử đã vẽ ở phần 2
+- Biết cách tạo các tương tác với phần tử

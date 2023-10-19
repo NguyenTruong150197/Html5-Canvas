@@ -1,0 +1,7 @@
+Canvas Object:
+1. Rectangles (Hình chữ nhật)
+2. Lines (Đường thẳng)
+3. Arcs / Circles (Vòng cung / Vòng tròn)
+4. Bezier Curves (Đường cong Bezier)
+5. Images (Hình ảnh)
+6. Text (Chữ)
